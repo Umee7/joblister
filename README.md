@@ -51,7 +51,7 @@ border="0" /></a>
 
 ## 1. Clone the repository
 
-> https://github.com/nishangupta/joblister-laravel-8.git
+> https://github.com/Umee7/joblister.git
 
 <br />
 
@@ -133,6 +133,6 @@ I'm pursuing my Bachelor's in Computer Science and expect to graduate in 2025. M
 
 -   **Email:** umeshdannarapu@gmail.com
 -   **GitHub:** [Umee7](https://github.com/Umee7)
--   **LinkedIn:** [Your LinkedIn](#)
+-   **LinkedIn:** [Your LinkedIn](www.linkedin.com/in/umesh024)
 
 _The screenshots and detailed usage instructions above provide a visual guide to the project's features._
