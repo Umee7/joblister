@@ -133,6 +133,6 @@ I'm pursuing my Bachelor's in Computer Science and expect to graduate in 2025. M
 
 -   **Email:** umeshdannarapu@gmail.com
 -   **GitHub:** [Umee7](https://github.com/Umee7)
--   **LinkedIn:** [Your LinkedIn](https://www.linkedin.com/in/umesh024)
+-   **LinkedIn:** [umesh](https://www.linkedin.com/in/umesh024)
 
 _The screenshots and detailed usage instructions above provide a visual guide to the project's features._
